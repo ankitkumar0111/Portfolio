@@ -11,7 +11,7 @@ module.exports = {
     extend: {
       fontFamily: {
         mont: ["var(--font-mont)"],
-        // mono: ["var(--font-roboto-mono)",],
+        mono: ["var(--font-roboto-mono)"],
       },
       colors: {
         dark: "#1b1b1b",
