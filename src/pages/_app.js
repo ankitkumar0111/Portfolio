@@ -17,8 +17,8 @@ import { useRouter } from 'next/router'
 const montserrat = Montserrat({
   subsets: ["latin"],
   variable: "--font-mont",
-  style:'italic',
-  weight:"400"
+  // style:'normal',
+  // weight:"400"
 })
 
 export default function App({ Component, pageProps }) {
